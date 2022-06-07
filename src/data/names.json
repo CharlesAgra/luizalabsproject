@@ -1,0 +1,26 @@
+[
+    {
+        "name": "ana",
+        "friends": ["carlos", "joão", "maria", "vinicius"]
+    }, 
+    {
+        "name": "carlos",
+        "friends": ["ana"]
+    },
+    {
+        "name": "joão",
+        "friends": ["ana", "luiza"]
+    },
+    {
+        "name": "maria",
+        "friends": ["ana", "vinicius"]
+    },
+    {
+        "name": "vinicius",
+        "friends": ["ana", "maria"]
+    },
+    {
+        "name": "luiza",
+        "friends": ["joão"]
+    }
+]

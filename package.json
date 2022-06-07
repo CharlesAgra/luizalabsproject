@@ -1,0 +1,24 @@
+{
+  "name": "luizalabsproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlesAgra/luizalabsproject.git"
+  },
+  "keywords": [],
+  "author": "Charles Agra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlesAgra/luizalabsproject/issues"
+  },
+  "homepage": "https://github.com/CharlesAgra/luizalabsproject#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
