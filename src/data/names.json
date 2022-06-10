@@ -1,1 +1,44 @@
-[{"name":"ana","friends":["carlos","joao","maria","vinicius","charles"]},{"name":"carlos","friends":["ana"]},{"name":"joao","friends":["ana","luiza"]},{"name":"maria","friends":["ana","vinicius"]},{"name":"vinicius","friends":["ana","maria"]},{"name":"luiza","friends":["joao"]},{"name":"charles","friends":["ana"]}]
+[
+    {
+        "name": "ana",
+        "friends": [
+            "carlos",
+            "joao",
+            "maria",
+            "vinicius"
+        ]
+    },
+    {
+        "name": "carlos",
+        "friends": [
+            "ana"
+        ]
+    },
+    {
+        "name": "joao",
+        "friends": [
+            "ana",
+            "luiza"
+        ]
+    },
+    {
+        "name": "maria",
+        "friends": [
+            "ana",
+            "vinicius"
+        ]
+    },
+    {
+        "name": "vinicius",
+        "friends": [
+            "ana",
+            "maria"
+        ]
+    },
+    {
+        "name": "luiza",
+        "friends": [
+            "joao"
+        ]
+    }
+]
