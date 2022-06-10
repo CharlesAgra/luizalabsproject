@@ -32,7 +32,14 @@ docker run -d -p 9000:9000 luizalabsproject
 
 /getnotfriends/:name -> Essa rota irá trazer todos os amigos do seus amigos
 
-/register -> Essa rota ficou com a responsabilidade inserir um novo registro  
+/register -> Essa rota ficou com a responsabilidade inserir um novo registro. Para utilizar essa rota você precisará enviar no corpo da requisição um objeto que precisa de 2 valores.
+
+```js
+{
+    name: string
+    friends: array<strings>
+}
+```
 
 ## Contribuição
 Fiquem a vontade para contribuir e alertar sobre bugs e novas melhorias.
